@@ -1,6 +1,6 @@
 # magical-forest
 
-The purpose of this repository was to provide credibility, sources, and a starting point.
+The purpose of this repository was to practice implenting patterns which connect links, files, and directories.
 
 ### Click [here](Situations/screeching.md) to wake up
 ### Click [here](https://docs.google.com/drawings/d/1vERF7ph8Hi3PqtL-_eSad6VXHOfGhzfj7T1mkyMv8-o/edit) to see our diagram
