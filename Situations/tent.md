@@ -2,8 +2,8 @@
 
 You stay put in the tent.
 
-[You choose to ignore the sound.](shadow.md)
+[You choose to continue to ignore the ongoing sound.](shadow.md)
 
-[You devise a plan to get rid of the sound.](plan.md)
+[You work to devise a plan to get rid of the sound.](plan.md)
 
 
