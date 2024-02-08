@@ -2,6 +2,6 @@
 
 You wake up to loud screeching in the forest.
 
-[Get up and investigate.](tent.md)
+[Get up and investigate.](forest.md)
 
-[You ignore the sound](forest.md)
+[You ignore the sound](tent.md)
